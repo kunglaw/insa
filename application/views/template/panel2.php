@@ -2,9 +2,9 @@
 <div class="composs-panel">
 
     <div class="composs-panel-title composs-panel-title-tabbed">
-        <strong class="active">Latest reviews</strong>
-        <strong>Gadget reviews</strong>
-        <strong>Fashion reviews</strong>
+        <strong class="active">Headlines</strong>
+        <strong>Event</strong>
+        <strong>Features</strong>
     </div>
 
     <div class="composs-panel-inner">
@@ -18,13 +18,13 @@
                 <div class="item">
                     <div class="item-header">
                         <a href="#" class="img-read-later-button">Read later</a>
-                        <a href="post.html"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
+                        <a href="<?=base_url("post/detail")?>"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
                     </div>
                     <div class="item-content">
-                        <h2><a href="post.html">Wagon Train to the Stars: The Story of Star Trek</a></h2>
+                        <h2><a href="<?=base_url("post/detail")?>">Wagon Train to the Stars: The Story of Star Trek</a></h2>
                         <span class="item-meta">
                             <span class="item-meta-item"><i class="material-icons">access_time</i>January 12, 2015</span>
-                            <a href="post.html#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
+                            <a href="<?=base_url("post/detail")?>#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
                         </span>
                         <span class="item-stars"><span class="stars-inner" data-ot-css="width: 80%;"></span></span>
                     </div>
@@ -43,13 +43,13 @@
                 <div class="item">
                     <div class="item-header">
                         <a href="#" class="img-read-later-button">Read later</a>
-                        <a href="post.html"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
+                        <a href="<?=base_url("post/detail")?>"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
                     </div>
                     <div class="item-content">
-                        <h2><a href="post.html">Wagon Train to the Stars: The Story of Star Trek</a></h2>
+                        <h2><a href="<?=base_url("post/detail")?>">Wagon Train to the Stars: The Story of Star Trek</a></h2>
                         <span class="item-meta">
                             <span class="item-meta-item"><i class="material-icons">access_time</i>January 12, 2015</span>
-                            <a href="post.html#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
+                            <a href="<?=base_url("post/detail")?>#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
                         </span>
                         <span class="item-stars"><span class="stars-inner" data-ot-css="width: 80%;"></span></span>
                     </div>
@@ -70,13 +70,13 @@
                 <div class="item">
                     <div class="item-header">
                         <a href="#" class="img-read-later-button">Read later</a>
-                        <a href="post.html"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
+                        <a href="<?=base_url("post/detail")?>"><img src="<?=ASSET_URL."images/photos/image-8.jpg"?>" alt="" /></a>
                     </div>
                     <div class="item-content">
-                        <h2><a href="post.html">Wagon Train to the Stars: The Story of Star Trek</a></h2>
+                        <h2><a href="<?=base_url("post/detail")?>">Wagon Train to the Stars: The Story of Star Trek</a></h2>
                         <span class="item-meta">
                             <span class="item-meta-item"><i class="material-icons">access_time</i>January 12, 2015</span>
-                            <a href="post.html#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
+                            <a href="<?=base_url("post/detail")?>#comments" class="item-meta-item"><i class="material-icons">chat_bubble_outline</i>35</a>
                         </span>
                         <span class="item-stars"><span class="stars-inner" data-ot-css="width: 80%;"></span></span>
                     </div>

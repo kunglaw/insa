@@ -12,7 +12,7 @@
 
 <body>
 <?php 
-	$this->load->view("template/template");
+	$this->load->view($template);
 	
 	$this->load->view("template/js_under");
 ?>

@@ -22,6 +22,7 @@ defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 |*/
 define("BASE_URL","http://localhost/insa/");
 define("TITLE","INSA - Indonesian National Shipowners' Association ");
+define("ASSET_IMG",BASE_URL."assets/img/");
 define("ASSET_URL","http://localhost/insa/assets/insamag/");
 
 

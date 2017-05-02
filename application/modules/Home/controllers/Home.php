@@ -11,6 +11,8 @@
 		function index()
 		{
 			$data["title"] = "Home";
+			$data["content"] = "template/content";
+			$data["template"] = "template/template";
 			
 			$this->load->view("index",$data);
 		}

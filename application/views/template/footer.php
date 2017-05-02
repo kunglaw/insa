@@ -18,7 +18,7 @@
           <div class="widget-split item">
               <div class="widget">
                   <div>
-                      <p><a href="index-2.html"><img src="images/logo-footer.png" data-ot-retina="images/logo-footer@2x.png" alt="" /></a></p>
+                      <p><a href="index-2.html"><img src="<?=base_url("images/logo-footer.png")?>" data-ot-retina="images/logo-footer@2x.png" alt="" /></a></p>
                       
                       <p>Iusto dolor commodo per in. Has cibo sint impedit id per.</p>
 
@@ -51,10 +51,10 @@
                       <div class="item">
                           <div class="item-header">
                               <a href="#" class="img-read-later-button rm-btn-small">Read later</a>
-                              <a href="post.html"><img src="images/photos/image-18.jpg" alt="" /></a>
+                              <a href="<?=base_url("post/detail")?>"><img src="<?=base_url("images/photos/image-18.jpg")?>" alt="" /></a>
                           </div>
                           <div class="item-content">
-                              <h4><a href="post.html">Meet DC's Legends of Tomorrow</a></h4>
+                              <h4><a href="<?=base_url("post/detail")?>">Meet DC's Legends of Tomorrow</a></h4>
                               <span class="item-meta">
                                   <span class="item-meta-item"><i class="material-icons">access_time</i>January 12, 2015</span>
                               </span>
@@ -64,10 +64,10 @@
                       <div class="item">
                           <div class="item-header">
                               <a href="#" class="img-read-later-button rm-btn-small">Read later</a>
-                              <a href="post.html"><img src="images/photos/image-19.jpg" alt="" /></a>
+                              <a href="<?=base_url("post/detail")?>"><img src="<?=base_url("images/photos/image-19.jpg")?>" alt="" /></a>
                           </div>
                           <div class="item-content">
-                              <h4><a href="post.html">YOU DECIDE: The Best Movie of 2015!</a></h4>
+                              <h4><a href="<?=base_url("post/detail")?>">YOU DECIDE: The Best Movie of 2015!</a></h4>
                               <span class="item-meta">
                                   <span class="item-meta-item"><i class="material-icons">access_time</i>January 12, 2015</span>
                               </span>
@@ -96,7 +96,7 @@
       </div>
 
       <div class="footer-copyright">
-          <p>&copy; <a href="http://orange-themes.com/" target="_blank">Orange-Themes.com</a> 2016. All rights reserved.</p>
+          <p>&copy; <a href="https://informasea.com/" target="_blank">Informasea.com</a> 2017. All rights reserved.</p>
       </div>
       
   <!-- END .wrapper -->

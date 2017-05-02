@@ -1,7 +1,7 @@
 
 <!-- BEGIN .widget -->
 <div class="widget">
-    <h3>Shortcode Widget</h3>
+    <h3> Latest News </h3>
     <div class="shortcode-content">
         <div class="ot-shortcode-accordion accordion">
             <div>
